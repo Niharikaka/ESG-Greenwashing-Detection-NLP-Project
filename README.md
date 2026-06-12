@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/28862126/README.md)
 # ESG Greenwashing Detection: NLP Patent-Report Alignment Analysis
 
 **Course:** AIB551 Natural Language Processing | **Student:** Niharika Karanam | **SUSS ID:** B2511473 | **Submission Date:** 03/11/2025
